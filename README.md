@@ -1,2 +1,2 @@
 # Termocupla-X-MotorPP-Arduino
-Un codigo de arduino para controlar un Motor Paso A Paso conectado con una termocupla para medir la temperatura.
+Un codigo de arduino para controlar un Motor Paso A Paso conectado con una termocupla para medir la temperatura. Este codigo utiliza Maquinas de estados.
